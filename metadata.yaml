@@ -1,0 +1,37 @@
+_repo: Hero-Myths--amp--Legends-of-the-British-Race_25502
+_version: 0.1.0
+alternative_title: Hero-Myths and Legends of the British Race
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ebbutt, M. I. (Maud Isabel)
+    alias: Ebbutt, Maud Isabel
+    birthdate: 1867
+    gutenberg_agent_id: '31379'
+    url: http://www.gutenberg.org/2009/agents/31379
+description: ''
+gutenberg_bookshelf:
+- Children's Myths, Fairy Tales, etc.
+- Folklore
+gutenberg_issued: '2008-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25502'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Romances, English'
+- !lcsh 'Heroes'
+- !lcc 'PN'
+tableOfContents: Beowulf -- The dream of Maxem Wledig -- The story of Constantine
+  and Elene -- The compassion of Constantine -- Havelock the Dane -- Howard the Halt
+  -- Roland, the hero of early France -- The Countess Cathleen -- Cuchulain, the champion
+  of Ireland -- The tale of Gamelyn -- William of Cloudeslee -- Black Colin of Loch
+  Awe -- The marriage of Sir Gawayne -- King Horn -- Robin Hood -- Hereward the Wake.
+title: Hero-Myths & Legends of the British Race
+url: http://www.gutenberg.org/ebooks/25502
