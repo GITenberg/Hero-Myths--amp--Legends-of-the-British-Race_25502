@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31379'
     url: http://www.gutenberg.org/2009/agents/31379
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25502#Hero-Myths--amp--Legends-of-the-British-Race
 gutenberg_bookshelf:
 - Children's Myths, Fairy Tales, etc.
 - Folklore
